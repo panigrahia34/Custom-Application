@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Room" max_length="40" name="x_228770_custom_ap_room" type="collection"/>
+</database>

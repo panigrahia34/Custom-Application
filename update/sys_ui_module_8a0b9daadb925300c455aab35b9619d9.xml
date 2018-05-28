@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Custom Application">0e0b9daadb925300c455aab35b9619d7</application>
+        <filter/>
+        <name>Rooms</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_228770_custom_ap.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-28 19:48:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8a0b9daadb925300c455aab35b9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rooms</sys_name>
+        <sys_package display_value="Custom Application" source="x_228770_custom_ap">b09a5d6adb925300c455aab35b961980</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">b09a5d6adb925300c455aab35b961980</sys_scope>
+        <sys_update_name>sys_ui_module_8a0b9daadb925300c455aab35b9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-28 19:48:48</sys_updated_on>
+        <table>x_228770_custom_ap_room</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
